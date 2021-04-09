@@ -120,7 +120,7 @@ function setup() {
 function draw() 
 {
   background(51);
-  image(bg_img,0,0,displayWidth+80,displayHeight);
+  image(bg_img,0,0,displayWidth+40,displayHeight);
 
   push();
   imageMode(CENTER);
